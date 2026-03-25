@@ -1,6 +1,3 @@
 # Sahil_Kumar
-name = sahil kumar ;
-branch = cse(ai & ml);
-sesssion - 2025 to 2029 ;
-I am currently purshing btech degree in vit bhopal ; 
+Hi, I'm Sahil Kumar B.tech Student [cse (AIML)] 1st Year VIT Bhopal University, I am currently learning digital literacy and exploring new technologies.
 I developed a strong interest in software development ;
